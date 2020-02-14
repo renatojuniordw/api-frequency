@@ -5,7 +5,7 @@ API desenvolvida em NodeJs + express.
 
 ### Após clonar/baixar o repositório é necessário executar o seguinte comando:
 ```js
-    npm install
+   npm install
 ```
 
 ### Para executar a API é necessário executar o seguinte comando:
